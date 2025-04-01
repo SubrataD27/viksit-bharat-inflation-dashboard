@@ -180,12 +180,6 @@ Contributions to improve the Inflation Insights Dashboard are welcome. Please fo
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 📧 Contact
-
-Subrata Dhibar - [your.email@example.com](mailto:your.email@example.com)
-
-Project Link: [https://github.com/username/inflation-insights-dashboard](https://github.com/username/inflation-insights-dashboard)
-
 ## 🙏 Acknowledgements
 
 - [Ministry of Statistics and Programme Implementation](https://mospi.gov.in/) for the CPI data structure
