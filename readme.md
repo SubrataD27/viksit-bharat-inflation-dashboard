@@ -191,4 +191,4 @@ Project Link: [https://github.com/username/inflation-insights-dashboard](https:/
 - [Ministry of Statistics and Programme Implementation](https://mospi.gov.in/) for the CPI data structure
 - [Streamlit](https://streamlit.io/) for the amazing web app framework
 - [Plotly](https://plotly.com/) for the interactive visualization capabilities
-- [Organizers of Hackathon Name] for the opportunity to build this solution
+- Innovate with GoIStats Hackathon for the opportunity to build this solution
