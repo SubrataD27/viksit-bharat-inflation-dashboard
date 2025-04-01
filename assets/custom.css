@@ -1,0 +1,86 @@
+/* Custom styles for Viksit Bharat Insights Hub */
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f9f9f9;
+}
+
+.card {
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    transition: transform 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+}
+
+.card-header {
+    font-weight: 600;
+    background-color: #f8f9fa;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+}
+
+.bg-primary {
+    background-color: #2c3e50 !important;
+}
+
+.text-primary {
+    color: #3498db !important;
+}
+
+/* Progress bar styling */
+.progress {
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+/* Dropdown styling */
+.Select-control {
+    border-radius: 6px;
+}
+
+/* Make iframes responsive */
+iframe {
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+/* Tooltip styling */
+.dash-tooltip {
+    background-color: #2c3e50 !important;
+    color: white !important;
+    border-radius: 4px !important;
+}
+
+/* Custom container styling */
+.container-fluid {
+    padding: 20px;
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
+/* Custom headings */
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 600;
+}
+
+/* State profile styling */
+#state-profile {
+    padding: 15px;
+}
+
+/* For medium and larger screens */
+@media (min-width: 768px) {
+    .card-body {
+        padding: 1.5rem;
+    }
+}
+
+/* For small screens */
+@media (max-width: 767px) {
+    .container-fluid {
+        padding: 10px;
+    }
+}
